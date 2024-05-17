@@ -1,1 +1,1 @@
-# slider
+https://alexeymuravitsky.github.io/slider/
